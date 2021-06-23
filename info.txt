@@ -1,4 +1,5 @@
 hello,
 I am Mehul Thakor
 
-Thanks
+regards,
+Mehul Thakor
